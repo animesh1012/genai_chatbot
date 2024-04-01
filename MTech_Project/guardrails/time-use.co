@@ -1,0 +1,11 @@
+define user ask about ccmt councelling
+  "HI"
+  "Tell me about ccmt councelling?"
+  "What are the steps for councelling?"
+
+define bot explain about ccmt councelling
+  "Accept"
+
+define flow
+  user ask about ccmt councelling
+  bot explain about ccmt councelling

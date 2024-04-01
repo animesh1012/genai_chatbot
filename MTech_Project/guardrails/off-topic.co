@@ -1,0 +1,17 @@
+define user ask off topic
+  "How's the weather today?"
+  "Can you recommend a good restaurant nearby?"
+  "What's your opinion on the latest political news?"
+  "How do I cook spaghetti?"
+  "What are the best tourist attractions in Paris?"
+  "Who is the president of United States"
+  "you are stupid and pathetic"
+  "will it rain today"
+  "can you code Fibonacci sequence generation in python"
+
+define bot explain cant off topic
+  "Reject"
+
+define flow
+    user ask off topic
+    bot explain cant off topic
