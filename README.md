@@ -36,6 +36,3 @@ To set up the CCMT Counseling Assistant locally, follow these steps:
    pip install -r requirement.txt
 
    python app.py
-
-
-
