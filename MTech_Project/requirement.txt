@@ -1,0 +1,7 @@
+langchain
+torch
+transformers
+nemoguardrails
+PyPDF2
+streamlit
+sentence-transformers
