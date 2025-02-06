@@ -28,4 +28,14 @@ To set up the CCMT Counseling Assistant locally, follow these steps:
 
    ```bash
    git clone https://github.com/animesh1012/genai_chatbot.git
-   cd genai_chatbot
+   cd genai_chatbot/MTech_Project
+
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+   pip install -r requirement.txt
+
+   python app.py
+
+
+
