@@ -46,4 +46,4 @@ After completing the installation steps:
 
 1. **Start the Chatbot**:
    ```bash
-   python app.py
+   streamlit run app.py
